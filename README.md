@@ -10,7 +10,7 @@ It has only been tested with a late thin-bezeled variant of the M122. The screw 
 
 I need to include test points at the end of each row and column, for testing continuity. Currently no copper is exposed except for at the connector, which makes it impossible for PCB manufacturers to continuity test the board and will likely lead to defects in large-scale production.
 
-Capacitive pad measurements are taken from i$/idollar's FSSK and FEXT PCB designs.
+Capacitive pad measurements are taken from i$/idollar's FSSK and FEXT PCB designs, which I believe are directly measured from the original Model F PCBs.
 There are very tiny unconnected copper dots in the void space within the capacitive pads that need to be removed from the footprints before manufacture. JLCPCB did this for me, but it is necessary to remove them beforehand.
 
 JLCPCB also wanted to confirm with me that the backside isn't supposed to be filled with a ground plane. Adding one will probably be fine, but will likely make the board less flexible as a result.
