@@ -1,0 +1,10 @@
+(module CAL_CAP_IBM_F (layer F.Cu) (tedit 5F790820)
+  (fp_text reference REF** (at 0 0 270) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value CAL_CAP_IBM_F (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad ROW smd rect (at 0 0) (size 2.54 5.08) (layers F.Cu))
+  (pad COL smd rect (at 0 0) (size 2.54 5.08) (layers B.Cu))
+)
