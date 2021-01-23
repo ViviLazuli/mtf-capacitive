@@ -31,4 +31,6 @@ The key matrix of the PCB is reverse-engineered from photos of original F122 PCB
 
 Please read LICENSE.txt for the full MIT License.
 
+Some photos are here for reverse-engineering reference only and are not mine nor included under the license.
+
 Design by ViviLazuli, 2020.
