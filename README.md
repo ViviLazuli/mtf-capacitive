@@ -27,6 +27,8 @@ The diameter of the copper around the connecting pads could be to be enlarged. T
 For connecting the board to an xwhatsit or other controller, I would recommend 3M 8132/06 100, which has the correct pitch for this board and xwhatsit:
 https://www.digikey.com/en/products/detail/3m/8132-06-100/7809902
 
+The key matrix of the PCB is reverse-engineered from photos of original F122 PCBs and should be exactly the same. The connector is likely in a slightly different position though.
+
 Please read LICENSE.txt for the full MIT License.
 
 Design by ViviLazuli, 2020.
