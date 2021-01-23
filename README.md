@@ -29,6 +29,8 @@ https://www.digikey.com/en/products/detail/3m/8132-06-100/7809902
 
 The key matrix of the PCB is reverse-engineered from photos of original F122 PCBs and should be exactly the same. The connector is likely in a slightly different position though.
 
+The screw hole placement was prototyped with paper by printing an SVG output of the board edge cuts and drill holes on multiple sheets of paper, pasting them together, cutting out the paper 'PCB', and hole punching the drill hole locations. A few iterations of this paper prototyping method allowed me to test hole locations and board fitment against the barrel plate without having to make an entire PCB first.
+
 Please read LICENSE.txt for the full MIT License.
 
 Some photos are here for reverse-engineering reference only and are not mine nor included under the license.
