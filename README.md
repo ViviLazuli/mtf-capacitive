@@ -31,6 +31,8 @@ The key matrix of the PCB is reverse-engineered from photos of original F122 PCB
 
 The screw hole placement was prototyped with paper by printing an SVG output of the board edge cuts and drill holes on multiple sheets of paper, pasting them together, cutting out the paper 'PCB', and hole punching the drill hole locations. A few iterations of this paper prototyping method allowed me to test hole locations and board fitment against the barrel plate without having to make an entire PCB first.
 
+I did not clad the steel backplate in tape before mounting the PCB. The solder mask should provide adequate isolation. Just make sure the steel is clean and there are no burrs/jagged edges that could scrape the PCB.
+
 Please read LICENSE.txt for the full MIT License.
 
 Some photos are here for reverse-engineering reference only and are not mine nor included under the license.
