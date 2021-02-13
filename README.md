@@ -2,6 +2,12 @@
 
 ### Rev. 1 / Rev. A
 
+![Image of ViviLazuli's prototype keyboard](https://i.imgur.com/HNapvQN.jpg)
+
+[Reddit post on ViviLazuli's prototype using a working rev. A version of this PCB](https://www.reddit.com/r/MechanicalKeyboards/comments/k1roge/the_midori_data_console_a_heavily_modified_ibm/)
+
+[A writeup on the above keyboard](https://imgur.com/a/Up2U8t7)
+
 This version is in prototyping and requires PERMANENT MODIFICATION of the case to fit. However, it does function.
 The plastic tab holding the cable entry down needed to be cut off. The PCB should be re-designed with a 'notch' where the tab is.
 
