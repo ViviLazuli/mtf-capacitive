@@ -1,19 +1,13 @@
 # MtF122 Capacitive Conversion PCB for IBM Model M 122-key Keyboards
 
-### Rev. 1 / Rev. A
+### Rev. 2 / Rev. B
 
-This version is in prototyping and requires PERMANENT MODIFICATION of the case to fit. However, it does function.
-The plastic tab holding the cable entry down needed to be cut off. The PCB should be re-designed with a 'notch' where the tab is.
+This version is in prototyping phase. However, it does function.
 
 It has only been tested with a late thin-bezeled variant of the M122. The screw holes have a tight fit and may require widening and more clearance around them for traces.
 !The screw holes may not be in the correct positions for other M122 variants!
 
-I need to include test points at the end of each row and column, for testing continuity. Currently no copper is exposed except for at the connector, which makes it impossible for PCB manufacturers to continuity test the board and will likely lead to defects in large-scale production.
-
 Capacitive pad measurements are taken from i$/idollar's FSSK and FEXT PCB designs, which I believe are directly measured from the original Model F PCBs.
-There are very tiny unconnected copper dots in the void space within the capacitive pads that need to be removed from the footprints before manufacture. JLCPCB did this for me, but it is necessary to remove them beforehand.
-
-JLCPCB also wanted to confirm with me that the backside isn't supposed to be filled with a ground plane. Adding one will probably be fine, but will likely make the board less flexible as a result.
 
 The PCB thickness should be 0.6mm. This is thin enough to allow the board to flex into shape without preforming it with heat and duct tape (which I couldn't make work anyway).
 
