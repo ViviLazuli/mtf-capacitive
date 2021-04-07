@@ -5,22 +5,22 @@
     {
       "Vendor":      "KiCad",
       "Application": "Pcbnew",
-      "Version":     "(5.1.7)-1"
+      "Version":     "(5.1.9-0-10_14)"
     },
-    "CreationDate":  "2020-10-10T22:45:47-04:00"
+    "CreationDate":  "2021-02-25T21:43:52+01:00"
   },
   "GeneralSpecs":
   {
     "ProjectId":
     {
-      "Name": "f122",
-      "GUID": "66313232-2e6b-4696-9361-645f70636258",
+      "Name": "mtf122",
+      "GUID": "6d746631-3232-42e6-9b69-6361645f7063",
       "Revision": "rev?"
     },
     "Size":
     {
       "X": 500.100,
-      "Y": 194.100
+      "Y": 194.115
     },
     "LayerNumber": 2,
     "BoardThickness":  0.800
@@ -40,42 +40,42 @@
   "FilesAttributes":
   [
     {
-      "Path":  "f122-F_Cu.gbr",
+      "Path":  "mtf122-F_Cu.gbr",
       "FileFunction":  "Copper,L1,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "f122-B_Cu.gbr",
+      "Path":  "mtf122-B_Cu.gbr",
       "FileFunction":  "Copper,L2,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "f122-F_SilkS.gbr",
+      "Path":  "mtf122-F_SilkS.gbr",
       "FileFunction":  "Legend,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "f122-B_SilkS.gbr",
+      "Path":  "mtf122-B_SilkS.gbr",
       "FileFunction":  "Legend,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "f122-F_Mask.gbr",
+      "Path":  "mtf122-F_Mask.gbr",
       "FileFunction":  "SolderMask,Top",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "f122-B_Mask.gbr",
+      "Path":  "mtf122-B_Mask.gbr",
       "FileFunction":  "SolderMask,Bot",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "f122-Edge_Cuts.gbr",
+      "Path":  "mtf122-Edge_Cuts.gbr",
       "FileFunction":  "Profile",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "f122-F_Fab.gbr",
+      "Path":  "mtf122-F_Fab.gbr",
       "FileFunction":  "AssemblyDrawing,Top",
       "FilePolarity":  "Positive"
     }
